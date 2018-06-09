@@ -16,5 +16,5 @@ string ExternFile::getName()
 
 void ExternFile::setName(string x)
 {
-	x = name;
+	name = x;														  
 }
