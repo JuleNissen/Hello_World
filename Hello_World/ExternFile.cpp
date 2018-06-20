@@ -13,10 +13,7 @@ string ExternFile::getName()
 {
 	return name;
 }
-/*
-multi-line doc...
-...
-*/
+
 void ExternFile::setName(string x)
 {
 	name = x;														  
